@@ -236,7 +236,7 @@ div {
 }
         #apDiv25 {
 
-	position: auto;
+	position: absolute;
 	width: 360px;
 	height: 30px;
 	z-index: 10;
@@ -246,7 +246,7 @@ div {
 	color: #FFF;
 }
         #apDiv26 {
-	position: auto;
+	position: absolute;
 	width: 576px;
 	height: 26px;
 	z-index: 11;
