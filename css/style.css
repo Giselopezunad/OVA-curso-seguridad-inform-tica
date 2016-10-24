@@ -347,12 +347,12 @@ li{
 section{
 	width: 713px;
 	background: white;
-	height: 1650px;
+	height: 1900px;
 	float: left;
 	margin-top: 7px;
 	border-radius: 10px 0px 0px 0px;
 }
-section2{
+section2{ /*Section para multimedia.html*/
 	width: 1000px;
 	background: white;
 	height: 1650px;
