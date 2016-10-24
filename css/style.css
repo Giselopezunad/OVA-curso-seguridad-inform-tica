@@ -283,6 +283,18 @@ body{
 background-repeat: no-repeat;
 background-size: 60px;
 background-color: #666;
+
+}
+
+#bodyact{
+	background-repeat: no-repeat;
+position: absolute;
+margin: 0;
+padding: 0;
+background-color: #666;
+
+
+
 }
 h1{
 	font-family: Arial, Helvetica, sans-serif;
@@ -341,6 +353,7 @@ section{
 	border-radius: 10px 0px 0px 0px;
 }
 
+}
 section2{
 	width: 1000px;
 	background: white;
@@ -358,6 +371,8 @@ aside{
 	margin-top: 7px;
 	border-radius: 0px 10px 0px 0px;
 }
+
+
 footer{
 	width: 1000px;
 	height: 70px;
@@ -432,11 +447,11 @@ p {
 /*actividades*/
 #act1
 {
-	background:#ffffff ;
+	background:;
 	width: 685px;
-	height: 90px;
+	height: 120px;
 	margin-left: 14px;
-
+    margin-top: 10px;
 
 
 }
@@ -577,3 +592,22 @@ background:#FFFF00;
 	text-align: left;
 	position:relative;
 }
+
+#sec6
+{
+	background: ;
+	width: 685px;
+	height: 192px;
+	margin-top: 15px;
+	margin-left: 14px;
+}
+
+#act7
+{
+	background: ;
+	width:680px;
+	height: 90px;
+	margin-top: 15px;
+	margin-left: 14px;
+}
+/*autores*/
